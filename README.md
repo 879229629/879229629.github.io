@@ -2,8 +2,9 @@
 https://github.com/autoload/hexo-theme-auto
 https://autoload.github.io/
 
-# link
-
+# code
 https://879229629.github.io/
+https://github.com/879229629/879229629.github.io
 
-# https://hexo.io/zh-cn/docs/
+# blog
+https://hexo.io/zh-cn/docs/
